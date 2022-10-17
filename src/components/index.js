@@ -1,19 +1,9 @@
 
-// import Navbar from "./Navbar";
-// import billing from "./billing";
-// import CardDeal from "./CardDeal";
-// import Business from "./Business";
-// import Clients from "./Clients";
-// import CTA from "./CTA";
-// import Stats from "./Stats";
-// import Footer from "./Footer";
-// import Testimonials from "./Testimonials";
-// import Hero from "./Hero";
 import Navbar from "./Navbar";
-import billing from "./billing";
-import business from "./business";
-import button from "./button"
-import cardDeal from "./cardDeal";
+import Billing from "./Billing";
+import Business from "./Business";
+import Button from "./Button"
+import CardDeal from "./CardDeal";
 import Clients from "./Clients";
 import CTA from "./CTA";
 import FeedBackCard from "./FeedBackCard";
@@ -25,13 +15,15 @@ import Testimonials from "./Testimonials"
 
 export {
   Navbar,
- billing,
-  cardDeal;
-  business;
+  Billing,
+  CardDeal,
+  Business,
   Clients,
   CTA,
+  Button,
   Stats,
   Footer,
+  FeedBackCard,
   Testimonials,
   Hero,
 };

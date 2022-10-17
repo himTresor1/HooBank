@@ -1,6 +1,6 @@
 import React from 'react'
 
-const billing = () => {
+const Button = () => {
   return (
     <div>
       
@@ -8,4 +8,4 @@ const billing = () => {
   )
 }
 
-export default billing
+export default Button
