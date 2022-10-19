@@ -1,6 +1,7 @@
 import React from "react";
 import styles from "../constants/styles";
 import { discount, robot } from "../assets/assets";
+import GetStarted from "./GetStarted";
 
 const Hero = () => (
   <section
@@ -27,6 +28,9 @@ const Hero = () => (
         
           Payment Method.
         </h1>
+        <div className="ss:flex hidden md:mr-4 mr-0">
+          <GetStarted/>
+        </div>
       </div>
     </div>
   </section>
