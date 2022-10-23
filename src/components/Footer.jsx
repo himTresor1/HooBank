@@ -32,7 +32,7 @@ const Footer = () => (
             ))}
            </div>
      </div>
-    <div className="w-full justify-between items-center flex md:flex-row flex-row pt-6 border-t-[1px] border-t-[3f3r45] ">
+    <div className="w-full justify-between items-center flex md:flex-row flex-row pt-6 border-t-[1px] border-t-[3F3E45] ">
       <p  className=' font-poppins  font-normal text-center text-[18px] leading-[27px] text-white '>
         2021 HooBank. All right Reserved.
       </p>
